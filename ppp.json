@@ -1,0 +1,29 @@
+[{
+        "name": "john",
+        "addr": {
+            "country": "Britain",
+            "city": "London"
+        }
+    },
+    {
+        "name": "luis",
+        "addr": {
+            "country": "Britain",
+            "city": "London"
+        }
+    },
+    {
+        "name": "eric",
+        "addr": {
+            "country": "Britain",
+            "city": "Manchester"
+        }
+    },
+    {
+        "name": "kyle",
+        "addr": {
+            "country": "France",
+            "city": "Paris"
+        }
+    }
+]

@@ -1,0 +1,21 @@
+[{
+        "name": "cloth1",
+        "sizes": [1, 2],
+        "colors": ["black", "blue"]
+    },
+    {
+        "name": "cloth2",
+        "sizes": [1, 2, 3],
+        "colors": ["black", "white"]
+    },
+    {
+        "name": "cloth3",
+        "sizes": [2, 3, 4],
+        "colors": ["green", "blue"]
+    },
+    {
+        "name": "cloth4",
+        "sizes": [4, 5, 6],
+        "colors": ["black", "blue", "green"]
+    }
+]

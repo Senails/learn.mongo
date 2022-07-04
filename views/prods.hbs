@@ -1,0 +1,19 @@
+<form action="/prods/add" method="post">
+	<input name="name" placeholder="name"><br>
+	<input name="cost" placeholder="cost"><br>
+	<input name="rest" placeholder="rest"><br>
+	<input type="submit">
+</form>
+
+<p>{{mes}}</p>
+{{#each prods}}
+	<div>
+	<h2>{{name}}</h2>
+	<p>
+		<b>{{cost}}$ </b>, rest: {{rest}}
+	</p>
+	<a href="/prods/{{name}}">to {{name}}</a>
+	<a href="/prods/delete/{{name}}/{{ rand }}">delete</a>
+	<a href="/prods/edit/{{name}}">edit</a>
+    </div>
+{{/each}}

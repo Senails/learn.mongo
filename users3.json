@@ -1,0 +1,16 @@
+[{
+        "name": "user1",
+        "color": ["red"],
+        "numbers": [1, 2, 3, 7]
+    },
+    {
+        "name": "user2",
+        "color": ["black", "red", "blue"],
+        "numbers": [3, 5, 9]
+    },
+    {
+        "name": "user3",
+        "color": ["red", "green", "yellow"],
+        "numbers": [1, 8, 9]
+    }
+]

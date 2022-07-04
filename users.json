@@ -1,0 +1,31 @@
+[{
+        "name": "user1",
+        "age": 25,
+        "salary": 300
+    },
+    {
+        "name": "user2",
+        "age": 25,
+        "salary": 400
+    },
+    {
+        "name": "user3",
+        "age": 26,
+        "salary": 400
+    },
+    {
+        "name": "user4",
+        "age": 26,
+        "salary": 500
+    },
+    {
+        "name": "user5",
+        "age": 26,
+        "salary": 500
+    },
+    {
+        "name": "user6",
+        "age": 27,
+        "salary": 500
+    }
+]
